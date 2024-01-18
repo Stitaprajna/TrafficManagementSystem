@@ -1,0 +1,14 @@
+FROM python:3.10.12
+RUN apt-get update && apt-get install ffmpeg libsm6 libxext6  -y
+COPY main.py ./main.py
+COPY deep_sort ./deep_sort
+COPY  yolov8n.pt ./yolov8n.pt
+COPY  custom_yolov8.pt ./custom_yolov8.pt
+COPY tracker.py ./tracker.py
+COPY mars-small128.pb ./mars-small128.pb
+COPY input.mp4 ./input.mp4
+COPY mars-small128.pb ./mars-small128.pb
+COPY requirements.txt ./requirements.txt
+RUN pip3 install --upgrade ultralytics
+RUN pip3 install -r requirements.txt 
+CMD ["python3", "main.py"] 
