@@ -2,7 +2,7 @@
 
 1. What is the need of speed-tracking region?
 
-  We basically measure the average speed of a tracked vehicle between two rectangular counters/regions, these are called speed tracking regions. 
+    We basically measure the average speed of a tracked vehicle between two rectangular counters/regions, these are called speed tracking regions. 
 
 2. What type of roads we choose for speed tracking? How to choose the speed-tracking regions for them?
 
