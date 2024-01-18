@@ -29,7 +29,15 @@
 ![](https://github.com/Stitaprajna/TrafficManagementSystem/blob/main/screenshots/speed-tracking-region-2.jpg)
 
 
-# Demo
+## Demo
+
+### 1.
+
+https://github.com/Stitaprajna/TrafficManagementSystem/assets/93129874/f364267d-5fc8-42a5-86b0-0ef0d568f495
+
+### 2.
 
 https://github.com/Stitaprajna/TrafficManagementSystem/assets/93129874/dd0d3289-3800-4b54-9be8-6d42f7f71cff
+
+
 
