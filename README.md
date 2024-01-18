@@ -10,7 +10,7 @@
 3. We will represent an object by center coordinates. With openCV we will determine if this center is inside the region.
 
 
-## Calculation of speed of each vehicle
+## Calculation of speed for each vehicle
 
    Scaled Distance = 3.6 X distance_in_meters
    
