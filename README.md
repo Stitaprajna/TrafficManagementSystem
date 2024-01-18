@@ -10,10 +10,10 @@
 3. We will represent an object by center coordinates. With openCV we will determine if this center is inside the region.
 
 
+4. Scaled Distance = 3.6*distance_in_meters
+   
 
-Scaled Distance = 3.6*distance_in_meters
-
-Average Speed  = Scaled Distance/time_in_second (Km/h) 
+5. Average Speed  = Scaled Distance/time_in_second (Km/h) 
 
 ## Road type-I (Regions for Tracking Speed)
 ![](https://github.com/Stitaprajna/TrafficManagementSystem/blob/main/screenshots/speed-tracking-region-1.jpg)
