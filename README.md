@@ -1,7 +1,9 @@
 # Traffic Management System
 
 
-![](https://github.com/Stitaprajna/TrafficManagementSystem/blob/main/Demo/demo1.mp4)
 
+## Road type-I
 ![](https://github.com/Stitaprajna/TrafficManagementSystem/blob/main/screenshots/speed-tracking-region-1.jpg)
+
+## Road type-II
 ![](https://github.com/Stitaprajna/TrafficManagementSystem/blob/main/screenshots/speed-tracking-region-2.jpg)
