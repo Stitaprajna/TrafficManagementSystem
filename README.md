@@ -16,7 +16,12 @@
 5. Average Speed  = Scaled Distance/time_in_second (Km/h) 
 
 ## Road type-I (Regions for Tracking Speed)
+
+### vertical road, vehicle is moving towards us.
 ![](https://github.com/Stitaprajna/TrafficManagementSystem/blob/main/screenshots/speed-tracking-region-1.jpg)
 
+
 ## Road type-II (Regions for Tracking Speed)
+
+### Horizontal road, vehicle is moving horizonally
 ![](https://github.com/Stitaprajna/TrafficManagementSystem/blob/main/screenshots/speed-tracking-region-2.jpg)
