@@ -2,7 +2,7 @@
 
 ## Indroduction
 
-1. We basically measure the average speed of a tracked vehicle between two rectangular counters/regions, these are called Speed Tracking Regions. 
+1. We basically measure the average speed of a tracked vehicle between two rectangular counters/regions, these are called **Speed Tracking Regions**. 
 
 
 2. This will be different from video to video, as the road orientation can be differnt, so vehicle motion might not be paraller/coming towards us. Here, we are taking two examples, one    with vehicles coming vertical and other case is horizontal. Choosing a speed-tracking region is simply taking planes on the road that, are perpendicular to the vehicles motion. All,    the speed-tracking region should be paraller to each other.
