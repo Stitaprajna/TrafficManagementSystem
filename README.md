@@ -43,8 +43,9 @@
 
 ### 1.
 
-Input FPS: 30 fps
-Output FPS: 5 fps
+Input: 30 fps
+
+Output: 5 fps
 
 https://github.com/Stitaprajna/TrafficManagementSystem/assets/93129874/f364267d-5fc8-42a5-86b0-0ef0d568f495
 
