@@ -29,7 +29,7 @@
 ![](https://github.com/Stitaprajna/TrafficManagementSystem/blob/main/screenshots/speed-tracking-region-2.jpg)
 
 
-## Demo
+## Demo (Traffic Violation & Real-Time Speed Tracking)
 
 ### 1.
 
