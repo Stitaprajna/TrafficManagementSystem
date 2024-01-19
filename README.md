@@ -16,6 +16,13 @@
    
    Average Speed  = Scaled Distance/time_in_second (Km/h) 
    
+## Common Traffic Violations that can detected using our system
+
+1. Speed Violation or overspeeding.
+   
+2. Not wearing helmet while riding bike,scooty.
+   
+3. Not wearing seatbelt while driving a car.
 
 ## Road type-I (Regions for Tracking Speed)
 
