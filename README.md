@@ -43,6 +43,8 @@
 
 ### 1.
 
+#### Without using GPU
+
 Input: 30 fps
 
 Output: 5 fps
