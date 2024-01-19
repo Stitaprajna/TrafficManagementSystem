@@ -4,6 +4,7 @@ from ultralytics import YOLO
 from tracker import Tracker
 import numpy as np
 import time
+from tqdm import tqdm
 
 
 
@@ -211,6 +212,13 @@ def main(flag,input_path,video_out_path,scaled_distance,speed_limit,detection_th
     
     
     cap = cv2.VideoCapture(input_path)
+    
+    # Get the total number of frames in the video
+    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
+    
+    # Create a tqdm progress bar with the total number of frames
+    progress_bar = tqdm(total=total_frames, desc="Processing Frames", unit="frame")
+    
     ret, frame = cap.read()
     cap_out = cv2.VideoWriter(video_out_path, cv2.VideoWriter_fourcc(*'MP4V'), cap.get(cv2.CAP_PROP_FPS),(frame.shape[1], frame.shape[0]))
     while ret:
@@ -423,10 +431,12 @@ def main(flag,input_path,video_out_path,scaled_distance,speed_limit,detection_th
 
 
         cap_out.write(frame)
+        progress_bar.update(1)
         ret, frame = cap.read()
 
     cap.release()
     cap_out.release()
+    progress_bar.close()
     # cv2.destroyAllWindows()
 
 
@@ -434,7 +444,7 @@ if __name__ == '__main__':
     ## for details about these parameter look at the user guide
     video_out_path = os.path.join('.', 'out.mp4')
     input_path = os.path.join('.','input.mp4')
-    flag = 1
+    flag = 0
     scaled_distance = 12 
     speed_limit = 80 #setting-up speed limit: 80 Km/h
     detection_threshold = 0.5
