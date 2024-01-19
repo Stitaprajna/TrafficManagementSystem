@@ -26,17 +26,17 @@
 
 4. Using mobile while driving.
    
+# Creating Regions for Tracking Speed 
+   ## Road Type-I
+   
+   ### vertical road, vehicle is moving towards us.
+   ![](https://github.com/Stitaprajna/TrafficManagementSystem/blob/main/screenshots/speed-tracking-region-1.jpg)
 
-## Road type-I (Regions for Tracking Speed)
 
-### vertical road, vehicle is moving towards us.
-![](https://github.com/Stitaprajna/TrafficManagementSystem/blob/main/screenshots/speed-tracking-region-1.jpg)
+## Road Type-II
 
-
-## Road type-II (Regions for Tracking Speed)
-
-### Horizontal road, vehicle is moving horizonally
-![](https://github.com/Stitaprajna/TrafficManagementSystem/blob/main/screenshots/speed-tracking-region-2.jpg)
+   ### Horizontal road, vehicle is moving horizonally
+   ![](https://github.com/Stitaprajna/TrafficManagementSystem/blob/main/screenshots/speed-tracking-region-2.jpg)
 
 
 ## Demo (Traffic Violation + Real-Time Speed Tracking)
