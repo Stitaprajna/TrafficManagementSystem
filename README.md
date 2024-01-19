@@ -41,7 +41,7 @@
 
 ## Demo (Traffic Violation + Real-Time Speed Tracking)
 
-### 1.
+### 1. Traffic Camera-1
 
 #### Without using GPU
 
@@ -51,7 +51,7 @@ Output: 5 fps, 50.8 MB (without compression)
 
 https://github.com/Stitaprajna/TrafficManagementSystem/assets/93129874/f364267d-5fc8-42a5-86b0-0ef0d568f495
 
-### 2.
+### 2. Traffic Camera-2
 
 #### Without using GPU
 
@@ -61,7 +61,7 @@ Output: 7 fps, 18.1 MB (without compression)
 
 https://github.com/Stitaprajna/TrafficManagementSystem/assets/93129874/dd0d3289-3800-4b54-9be8-6d42f7f71cff
 
-### 3.
+### 3. Traffic Camera-3
 
 https://github.com/Stitaprajna/TrafficManagementSystem/assets/93129874/afdf2356-d6dc-47a6-8bde-41f2cfd435d0
 
