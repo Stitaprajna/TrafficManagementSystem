@@ -12,7 +12,7 @@
 
 ## Calculation of speed for each vehicle
 
-   Scaled Distance = 3.6 X distance_in_meters
+   Scaled Distance = 3.6 X distance_in_meter
    
    Average Speed  = Scaled Distance/time_in_second (Km/h) 
    
