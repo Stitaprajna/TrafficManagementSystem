@@ -53,6 +53,12 @@ https://github.com/Stitaprajna/TrafficManagementSystem/assets/93129874/f364267d-
 
 ### 2.
 
+#### Without using GPU
+
+Input: 25 fps, 5.1 MB
+
+Output: 7 fps, 18.1 MB (without compression)
+
 https://github.com/Stitaprajna/TrafficManagementSystem/assets/93129874/dd0d3289-3800-4b54-9be8-6d42f7f71cff
 
 ### 3.
