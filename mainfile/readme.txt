@@ -1,5 +1,5 @@
 
-########################### Manual Instuctions to run the code ##########################
+########################### Manual Instructions to run the code ##########################
 
 1. Download the zip-file and extract it 
 2. Open the whole folder in any code editor
